@@ -1,0 +1,160 @@
+libc/stdlib/libc_a-arc4random.o: \
+ ../../../newlib-cygwin/newlib/libc/stdlib/arc4random.c \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/fcntl.h \
+ /home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/sys/fcntl.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_default_fcntl.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h newlib.h \
+ _newlib_version.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_stdint.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/endian.h \
+ /home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/machine/_endian.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/select.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_sigset.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timeval.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/timespec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timespec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_pthreadtypes.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/sched.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/stat.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/time.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/time.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_locale.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/limits.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/syslimits.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/signal.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/signal.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/stdint.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_intsup.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/stdlib.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/stdlib.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/alloca.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/string.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/strings.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/string.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/unistd.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/unistd.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/time.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_time.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/chacha_private.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/arc4random.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_arc4random.h
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/fcntl.h:
+
+/home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/sys/fcntl.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_default_fcntl.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+newlib.h:
+
+_newlib_version.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_stdint.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/endian.h:
+
+/home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/machine/_endian.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/select.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_sigset.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timeval.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/timespec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timespec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_pthreadtypes.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/sched.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/stat.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/time.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/time.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_locale.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/limits.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/syslimits.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/signal.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/signal.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/stdint.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_intsup.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/stdlib.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/stdlib.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/alloca.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/string.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/strings.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/string.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/unistd.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/unistd.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/time.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_time.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/chacha_private.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/arc4random.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_arc4random.h:

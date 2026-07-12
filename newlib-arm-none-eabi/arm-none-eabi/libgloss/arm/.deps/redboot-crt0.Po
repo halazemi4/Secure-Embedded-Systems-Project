@@ -1,0 +1,7 @@
+arm/redboot-crt0.o: ../../../newlib-cygwin/libgloss/arm/redboot-crt0.S \
+ ../../../newlib-cygwin/libgloss/arm/arm.h \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h
+
+../../../newlib-cygwin/libgloss/arm/arm.h:
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:

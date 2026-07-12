@@ -1,0 +1,5 @@
+libc/machine/arm/libc_a-strlen.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/strlen.S \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:

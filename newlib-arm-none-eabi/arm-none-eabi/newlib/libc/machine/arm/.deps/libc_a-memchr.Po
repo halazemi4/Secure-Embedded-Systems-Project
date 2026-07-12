@@ -1,0 +1,8 @@
+libc/machine/arm/libc_a-memchr.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/memchr.S \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/arm_asm.h
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:
+
+../../../newlib-cygwin/newlib/libc/machine/arm/arm_asm.h:

@@ -1,0 +1,148 @@
+libc/stdlib/libc_a-gdtoa-gdtoa.o: \
+ ../../../newlib-cygwin/newlib/libc/stdlib/gdtoa-gdtoa.c newlib.h \
+ _newlib_version.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/gdtoaimp.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/mprec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/math.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/float.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/errno.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/errno.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/assert.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_stdint.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/endian.h \
+ /home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/machine/_endian.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/select.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_sigset.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timeval.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/timespec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timespec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_pthreadtypes.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/sched.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/types.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/../locale/setlocale.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/limits.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/syslimits.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/string.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_locale.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/strings.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/string.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/stdlib.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/stdlib.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/alloca.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/wchar.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/locale.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/gdtoa.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/reent.h
+
+newlib.h:
+
+_newlib_version.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/gdtoaimp.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/mprec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/math.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/float.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/errno.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/errno.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/assert.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_stdint.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/endian.h:
+
+/home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/machine/_endian.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/select.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_sigset.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timeval.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/timespec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timespec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_pthreadtypes.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/sched.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/types.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/../locale/setlocale.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/limits.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/syslimits.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/string.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_locale.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/strings.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/string.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/stdlib.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/stdlib.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/alloca.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/wchar.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/locale.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/gdtoa.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/reent.h:

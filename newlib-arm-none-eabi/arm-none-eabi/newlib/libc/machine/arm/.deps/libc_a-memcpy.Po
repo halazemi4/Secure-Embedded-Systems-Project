@@ -1,0 +1,11 @@
+libc/machine/arm/libc_a-memcpy.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/memcpy.S \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/memcpy-armv7m.S \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/arm_asm.h
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:
+
+../../../newlib-cygwin/newlib/libc/machine/arm/memcpy-armv7m.S:
+
+../../../newlib-cygwin/newlib/libc/machine/arm/arm_asm.h:

@@ -1,0 +1,29 @@
+arm/arm_librdimon_v2m_a-_exit.o: \
+ ../../../newlib-cygwin/libgloss/arm/_exit.c \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/newlib.h \
+ /home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/_newlib_version.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h \
+ ../../../newlib-cygwin/libgloss/arm/swi.h \
+ ../../../newlib-cygwin/libgloss/arm/arm.h \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+/home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/newlib.h:
+
+/home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/_newlib_version.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h:
+
+../../../newlib-cygwin/libgloss/arm/swi.h:
+
+../../../newlib-cygwin/libgloss/arm/arm.h:
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:

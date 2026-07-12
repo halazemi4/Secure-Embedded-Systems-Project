@@ -1,0 +1,2 @@
+libc/machine/arm/libc_a-aeabi_memmove-soft.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/aeabi_memmove-soft.S

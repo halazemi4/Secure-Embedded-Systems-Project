@@ -1,0 +1,11 @@
+libc/machine/arm/libc_a-strcmp.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/strcmp.S \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/strcmp-armv7m.S \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/arm_asm.h
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:
+
+../../../newlib-cygwin/newlib/libc/machine/arm/strcmp-armv7m.S:
+
+../../../newlib-cygwin/newlib/libc/machine/arm/arm_asm.h:

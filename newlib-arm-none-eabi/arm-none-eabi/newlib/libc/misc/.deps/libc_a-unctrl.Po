@@ -1,0 +1,19 @@
+libc/misc/libc_a-unctrl.o: \
+ ../../../newlib-cygwin/newlib/libc/misc/unctrl.c \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h newlib.h \
+ _newlib_version.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+newlib.h:
+
+_newlib_version.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h:

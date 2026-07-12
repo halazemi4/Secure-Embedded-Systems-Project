@@ -1,0 +1,58 @@
+libc/stdlib/libc_a-cxa_atexit.o: \
+ ../../../newlib-cygwin/newlib/libc/stdlib/cxa_atexit.c \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/stdlib.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h newlib.h \
+ _newlib_version.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/stdlib.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/alloca.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/reent.h \
+ ../../../newlib-cygwin/newlib/libc/stdlib/atexit.h
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/stdlib.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+newlib.h:
+
+_newlib_version.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/stdlib.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/alloca.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/reent.h:
+
+../../../newlib-cygwin/newlib/libc/stdlib/atexit.h:

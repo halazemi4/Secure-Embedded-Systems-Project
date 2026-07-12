@@ -1,0 +1,8 @@
+arm/arm_librdimon_v2m_a-trap.o: \
+ ../../../newlib-cygwin/libgloss/arm/trap.S \
+ ../../../newlib-cygwin/libgloss/arm/arm.h \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h
+
+../../../newlib-cygwin/libgloss/arm/arm.h:
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:

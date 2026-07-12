@@ -1,0 +1,2 @@
+libc/machine/arm/libc_a-aeabi_memset-soft.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/aeabi_memset-soft.S

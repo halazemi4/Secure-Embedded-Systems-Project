@@ -1,0 +1,5 @@
+arm/linux-syscalls0.o: \
+ ../../../newlib-cygwin/libgloss/arm/linux-syscalls0.S \
+ ../../../newlib-cygwin/libgloss/arm/linux-syscall.h
+
+../../../newlib-cygwin/libgloss/arm/linux-syscall.h:

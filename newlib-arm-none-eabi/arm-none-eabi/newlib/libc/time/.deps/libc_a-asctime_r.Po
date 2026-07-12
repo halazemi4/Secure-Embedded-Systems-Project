@@ -1,0 +1,97 @@
+libc/time/libc_a-asctime_r.o: \
+ ../../../newlib-cygwin/newlib/libc/time/asctime_r.c \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/stdio.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h newlib.h \
+ _newlib_version.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/stdio.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/time.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/time.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_stdint.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/endian.h \
+ /home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/machine/_endian.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/select.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_sigset.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timeval.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/timespec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timespec.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_pthreadtypes.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/sched.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/types.h \
+ /home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_locale.h
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/stdio.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+newlib.h:
+
+_newlib_version.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/config.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/ieeefp.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/features.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/cdefs.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_default_types.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/reent.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/_ansi.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/_types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/lock.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/stdio.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/time.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/time.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_stdint.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/endian.h:
+
+/home/uwe/SES/newlib-arm-none-eabi/arm-none-eabi/newlib/targ-include/machine/_endian.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/select.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_sigset.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timeval.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/timespec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_timespec.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_pthreadtypes.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/sched.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/machine/types.h:
+
+/home/uwe/SES/newlib-cygwin/newlib/libc/include/sys/_locale.h:

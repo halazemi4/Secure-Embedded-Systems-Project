@@ -1,0 +1,5 @@
+libc/machine/arm/libc_a-aeabi_memcpy-armv7a.o: \
+ ../../../newlib-cygwin/newlib/libc/machine/arm/aeabi_memcpy-armv7a.S \
+ /home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h
+
+/home/uwe/SES/newlib-cygwin/include/arm-acle-compat.h:
