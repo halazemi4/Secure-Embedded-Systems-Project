@@ -1,7 +1,7 @@
 # Secure Embedded Systems Worksheets
 
-## Author: Hamad Alazemi
-# ID: 23081287
+# Author: Hamad Alazemi
+## ID: 23081287
 
 ## Project overview
 This repository contains the completed Secure Embedded Systems worksheet work for the Olimex STM32-P107 / Cortex-M3 board. The work covers GPIO control, serial communication, Newlib integration, interrupts, timers, PWM, and FreeRTOS task scheduling.
